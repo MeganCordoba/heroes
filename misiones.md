@@ -3,4 +3,5 @@
 1. Acabar con el plan de Lex Luthor
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros de heroes
-4. Acabar con death Stroke
+4. Acabar con death Stroke, gatubela y joker
+5. Conseguir provisiones para el equipo

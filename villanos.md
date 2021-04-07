@@ -9,4 +9,5 @@
 * Deathstroke
 * Harley Queen
 * Dessad
-* Villanito
+* Mr Frío
+* Black Mantha

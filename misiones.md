@@ -9,3 +9,4 @@
 7. Cooperar con la reina Amazonas
 8. Solicitar un prestamo de dinero a BAtman, para comprar equipo.
 9. Sacar informacion secreta al el Jocker con Harley Queen
+10. Salvar personas secuestradas por el Joker.

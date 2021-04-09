@@ -11,3 +11,4 @@
 * Dessad
 * Mr Frío
 * Black Mantha
+* Siniestro
